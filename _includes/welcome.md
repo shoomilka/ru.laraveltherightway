@@ -28,8 +28,8 @@ know where to find good information!
 [See Banner Images][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
-[2]: /banners.html
+[2]: /ru.laraveltherightway/banners.html
 
 ## Download the Android Application
 
-[![Get it in Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
+[![Get it in Google Play](/ru.laraveltherightway/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)

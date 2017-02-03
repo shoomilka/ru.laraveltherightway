@@ -2,4 +2,4 @@
 anchor: getting_started
 ---
 
-# Добро пожаловать {#getting_started_title}
+# Приступая к работе {#getting_started_title}

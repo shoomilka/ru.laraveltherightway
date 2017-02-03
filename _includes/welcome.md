@@ -1,35 +1,35 @@
 # Welcome
 
-_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
+_Оговорка: Большая часть ресурсовб дизайна и форматирования этого сайта взята (форкнута - более правильный термин) с оригинального сайта [PHP : The Right Way](http://www.phptherightway.com/). Ссылки на всех [соавторов](https://github.com/codeguy/php-the-right-way/graphs/contributors) (1??? поправь тут) с благодарностью всем им указаны внизу страницы._
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : Best Practices aims to put together all the resources and best practices in using the Laravel Framework.
+Этот сайт выступает в качестве гида для всех, кто использует фреймворк Laravel, в исполении Taylor Otwell и его соавторов. Laravel : Best Practices преследует цель собрать вместе все ресурсы и лучшие практики в использовании фреймворка Laravel.
 
-Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but coud be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+Laravel не требователек к тому как и где вы определяете свои классы пока они могут быть загружены с помощью Composer. Это палка о двух концах -- с одной стороны, это помогает продвинутым разработчикам, но это может сбить с толку начинающих и тех, кто пытается реконструировать существующий проект. Возможность разместить что угодно где угодно хороша. Но иногда некоторые методы являются лучшими, чем другие, и речь пойдет именно об этом. Этот сйт пытается собрать все лучшие практики, инструменты и методы, чтобы предоставить руководство как для для новичков так и для (2??? существующих) разработчиков.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become available.
+Этот рабочий документ будет продолжать обновляться более полезной информацией и примерами как только они станут доступны.
 
-## Translations
+## Переводы
 
-Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
+В настоящее время Laravel: The Best Practices доступен на следующих языках. Пожалуйста, Please содействуйте проекту чтобы он мог поддерживать несколько языков.
 
-* [English](http://www.laravelbestpractices.com)
-* [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
-* [Chinese](http://bluegeek.github.io/laraveltherightway/)
+* [Английский](http://www.laravelbestpractices.com)
+* [Русский](http://vanadium23.github.io/laraveltherightway.github.io/)
+* [Китайский](http://bluegeek.github.io/laraveltherightway/)
 
-## How to Contribute
+## Как помочь
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Помогите сделать этот сайт лучшим ресурсом Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1] (3??? ссыль)
 
-## Spread the Word!
+## Расскажите всем!
 
-_Laravel Best Practices_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_Laravel Best Practices_ имеет веб баннеры, которые вы можете использовать на своем сайте. Окажите поддержку и укажите новым PHP разработчикам
+где они могут найти хорошую информацию!
 
-[See Banner Images][2]
+[Посмотреть баннеры][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /ru.laraveltherightway/banners.html
 
-## Download the Android Application
+## Загрузить приложение Android
 
-[![Get it in Google Play](/ru.laraveltherightway/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
+[![Приложение в Google Play](/ru.laraveltherightway/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
